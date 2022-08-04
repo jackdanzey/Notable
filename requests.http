@@ -1,0 +1,21 @@
+### Doctors Index
+GET http://localhost:3000/doctors.json
+
+### Appointments Index
+GET http://localhost:3000/appointments.json
+
+### Create
+POST http://localhost:3000/
+Content-Type: application/json
+
+{
+
+}
+
+### Destroy
+DELETE http://localhost:3000/
+Content-Type: application/json
+
+{
+  
+}
